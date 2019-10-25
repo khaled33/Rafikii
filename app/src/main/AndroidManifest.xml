@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.user.rafiki">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".E8"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".E10"
+            android:screenOrientation="portrait"
+            android:hardwareAccelerated="false"/>
+        <activity
+            android:name=".E12"
+            android:screenOrientation="portrait"
+            android:hardwareAccelerated="false"/>
+        <activity
+            android:name=".E11"
+            android:screenOrientation="portrait"  android:hardwareAccelerated="false"/>
+        <activity
+            android:name=".E9"
+            android:screenOrientation="portrait"  android:hardwareAccelerated="false"/>
+        <activity
+            android:name=".Verif_code_mailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SexeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Inscription"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Liste_payers"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".E7"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".E7_1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".E7_2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fiche_MedicaleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Groupe_SangActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MaladiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AntecedentsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AllergiesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ContactsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ContactParentaux"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ContactMedcin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ContactUrgence"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MedicamentsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MedicamentsRenseignerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SeuilBiometriques"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ParametreAlertes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ModifierCompte"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EnregistrementVocal"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AllergiesActivityContainer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CycleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ParametresMesures"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetaileCardiaque"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetaileCardiogramme"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetaileTemperature"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetaileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetaileRespiration"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HistoriqueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetaileHistorique"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

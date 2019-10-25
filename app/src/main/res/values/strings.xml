@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RAFIKI</string>
+    <string name="title_home">Acueil</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="signes" translatable="false">SIGNES</string>
+    <string name="neutre">NEUTRE</string>
+    <string name="biometrique">biométriques</string>
+    <string name="frequence">FREQUENCE</string>
+    <string name="normal">NORMAL</string>
+    <string name="notes_conseils"><![CDATA[Notes & Conseils]]></string>
+    <string name="temperatur">TEMPERATURE</string>
+    <string name="elevee">ELEVEE</string>
+    <string name="respiration">RESPIRATION</string>
+    <string name="superieur">SUPERIEUR</string>
+    <string name="emotions">EMOTIONS</string>
+    <string name="stresse">STRESSE</string>
+    <string name="bienvenue">Bienvenue à</string>
+    <string name="surveillance">Surveillance des signaux biométriques</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="adresse_mail">Adresse mail</string>
+    <string name="s_identifier">S\'identifier</string>
+    <string name="mot_de_passe_oublier">Mot de passe oublié?</string>
+    <string name="cr_e_un_nouveau_compte">+ Créer un nouveau compte</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="age">Age</string>
+    <string name="anuler">Annuler</string>
+    <string name="payer">Pays</string>
+    <string name="email">Email</string>
+    <string name="s_inscrire">S\'INSCRIRE</string>
+    <string name="sexe">Genre</string>
+    <string name="un_code_de_verification">Un code de vérification est envoyé par mail</string>
+    <string name="entrer_le_code">Entrer le code</string>
+    <string name="f_minin">Féminin</string>
+    <string name="masculin">Masculin</string>
+    <string name="v_rifier">Vérifier</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="alert_msg1">Consulter votre mail pour</string>
+    <string name="alert_msg2">Valider votre inscription</string>
+    <string name="recherche">Recherche…</string>
+    <string name="pays">PAYS</string>
+    <string name="telephone">Mobile</string>
+    <string name="confirmer_mot_de_pass">Confirmer mot de passe</string>
+    <string name="err_pass2">Votre mot de passe n\'est pas identique</string>
+    <string name="chekmail">Cette adresse mail est déjà utilisée</string>
+    <string name="couplage">Couplage de votre T-shirt avec le Smartphone</string>
+    <string name="votre_t_shirt">Votre T-shirt doit être couplé avec votre Smartphone via Bluetooth</string>
+    <string name="couplage2">Couplage de votre T-shirt</string>
+    <string name="recherche_gadget">Recherche Gadget</string>
+    <string name="cardiaque">CARDIAQUE</string>
+    <string name="EreurdanslLinsertion">Erreur d\'insertion</string>
+    <string name="InsertionTerminer">Votre compte a été crée avec succès</string>
+    <string name="EmailOuMotDePasseInvalide">Email ou mot de passe invalide</string>
+    <string name="MailNexistePas">Cette adresse mail n\'existe pas</string>
+    <string name="Messageenvoyé">Message envoyé</string>
+    <string name="votre_t_shirt_est_bien_couple">VOTRE T-SHIRT EST BIEN COUPLÉ</string>
+    <string name="nbCompt">Vous avez dépassé le nombre de comptes autorisés</string>
+    <string name="mot_de_passe_oublie">Rafiki - Mot de passe oublié </string>
+    <string name="envoi_msg">Envoi message</string>
+    <string name="att_msg">Veuillez patienter…</string>
+    <string name="chek_internet">Vous n\'êtes pas connectés à Internet</string>
+    <string name="champs_obligatoir">Champ obligatoire</string>
+    <string name="email_invalide">Adresse mail invalide</string>
+    <string name="err_pass_caractaire">Votre mot de passe doit contenir 6 caractères au minimum</string>
+    <string name="votre_t_shirt_pas_couple">VOTRE T-SHIRT N\'EST PAS COUPLÉ</string>
+    <string name="fr" translatable="false">Fr</string>
+    <string name="en" translatable="false">En</string>
+    <string name="bpm" translatable="false">BPM</string>
+    <string name="rpm" translatable="false">RPM</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="taille">Taille (cm)</string>
+    <string name="poids">Poids (kg)</string>
+    <string name="n_de_s_curit_sociale">N° de sécurité sociale</string>
+    <string name="adresse">Adresse</string>
+    <string name="code_postale">Code postal</string>
+    <string name="ville">Ville</string>
+    <string name="groupe_sanguin">Groupe sanguin</string>
+    <string name="seuils_biom_triques">Seuils biométriques</string>
+    <string name="ant_c_dents_chirurgicaux">Antécédents chirurgicaux</string>
+    <string name="allergies">Allergies</string>
+    <string name="maladies">Maladies</string>
+    <string name="m_dicaments">Médicaments</string>
+    <string name="fiche_m_dicale">Fiche médicale</string>
+    <string name="ab" translatable="false">AB+</string>
+    <string name="ab2" translatable="false">AB-</string>
+    <string name="a" translatable="false">A+</string>
+    <string name="a2" translatable="false">A-</string>
+    <string name="b" translatable="false">B+</string>
+    <string name="b2" translatable="false">B-</string>
+    <string name="o" translatable="false">O+</string>
+    <string name="o2" translatable="false">O-</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="modifier">Modifier:</string>
+    <string name="supprimer">Supprimer:</string>
+    <string name="cliquer_sur_maladie">Cliquer sur une Maladie.</string>
+    <string name="appui_long_sur_maladie">Appui long sur une Maladie.</string>
+    <string name="valider">valider</string>
+    <string name="mes_contacts">Mes contacts</string>
+    <string name="contacts_parentaux">Contacts parentaux</string>
+    <string name="m_decins_traitants">Médecins traitants</string>
+    <string name="urgences_m_dicales">Urgences médicales</string>
+    <string name="allergie_aux_insectes">Allergie aux insectes</string>
+    <string name="allergie_aux_m_dicaments">Allergie aux médicaments</string>
+    <string name="allergie_aux_animaux">Allergie aux animaux</string>
+    <string name="allergie_aux_aliments">Allergie aux aliments</string>
+    <string name="allergie_respiratoire">Allergie respiratoire</string>
+    <string name="allergie_au_pollen">Allergie au Pollen</string>
+    <string name="autre">Autre</string>
+    <string name="nouveau">nouveau</string>
+    <string name="contacts">contacts</string>
+    <string name="m_decins">médecins</string>
+    <string name="hopital">Hopital</string>
+    <string name="assurances_maladies">Assurances maladies</string>
+    <string name="urgence">Urgence</string>
+    <string name="course">Course</string>
+    <string name="cyclisme">Cyclisme</string>
+    <string name="sommeil">Sommeil</string>
+    <string name="activit">Activité</string>
+    <string name="min" translatable="false">Min</string>
+    <string name="max" translatable="false">Max</string>
+    <string name="c" translatable="false">C°</string>
+    <string name="acte_chirurgicale">Acte chirurgicale</string>
+    <string name="date">Date (JJ/MM/AAAA)</string>
+    <string name="allergie_a">Allergie à</string>
+    <string name="renseiger">Renseigner …</string>
+    <string name="maladie_1">Maladie 1</string>
+    <string name="maladie_2">Maladie 2</string>
+    <string name="maladie_3">Maladie 3</string>
+    <string name="maladie_4">Maladie 4</string>
+    <string name="maladie_5">Maladie 5</string>
+    <string name="maladie_6">Maladie 6</string>
+    <string name="d_but_traitement">Début traitement</string>
+    <string name="fin_traitement">Fin traitement</string>
+    <string name="nombre_de_prise_jour">Nombre de prise (matin)</string>
+    <string name="nombre_de_prise_midi">Nombre de prise (midi)</string>
+    <string name="nombre_de_prise_soire">Nombre de prise (soire)</string>
+    <string name="heure_de_prise">Heure de prise</string>
+    <string name="r_currnce">Récurrence</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="m1">M</string>
+    <string name="j">J</string>
+    <string name="v">V</string>
+    <string name="s">S</string>
+    <string name="d">D</string>
+    <string name="pr_c_dent">précédent</string>
+    <string name="exp_2" translatable="false">0</string>
+    <string name="cliquer_sur_antecedents">Cliquer sur un antécédent.</string>
+    <string name="appui_long_sur_antecedents">Appui long sur un antécédent.</string>
+    <string name="cliquer_sur_allergis">Cliquer sur une allergie.</string>
+    <string name="appui_long_sur_allergis">Appui long sur une allergie.</string>
+    <string name="cliquer_sur_medicaments">Cliquer sur un médicament.</string>
+    <string name="appui_long_sur_medicaments">Appui long sur un médicament.</string>
+    <string name="appui_long_sur_parentaux">Appui long sur un contact.</string>
+    <string name="cliquer_sur_parentaux">Cliquer sur un contact.</string>
+    <string name="cliquer_sur_medecins">Cliquer sur un médecin.</string>
+    <string name="appui_long_sur_medecins">Appui long sur un médecin.</string>
+    <string name="cliquer_sur_urgence">Cliquer sur un item.</string>
+    <string name="appui_long_sur_urgence">Click long sur un item.</string>
+    <string name="accueil">Accueil</string>
+    <string name="donn_es_personnelles">Données personnelles</string>
+    <string name="alertes">Alertes</string>
+    <string name="d_connecter">Déconnecter</string>
+    <string name="cycle_d_activit">Cycle d\'activité</string>
+    <string name="quotidien">Quotidien</string>
+    <string name="marche">Marche</string>
+    <string name="course_pied">Course à pied</string>
+    <string name="reprendre">Reprendre</string>
+    <string name="stop" translatable="false">Stop</string>
+    <string name="fc">FC</string>
+    <string name="t" translatable="false">T°</string>
+    <string name="temp_rateur">Températeure</string>
+    <string name="distance">Distance</string>
+    <string name="d_clencher">Déclencher</string>
+    <string name="km">Km</string>
+    <string name="activer_gps_t_l_phone">Activer GPS Téléphone   </string>
+    <string name="exit">Exit</string>
+    <string name="cycle">Cycle</string>
+    <string name="param_tre">Paramètres</string>
+    <string name="historique">Historique</string>
+    <string name="a_pied">à pied</string>
+    <string name="maladie_sup">Maladie Supprimée!</string>
+    <string name="date_simple">Date</string>
+    <string name="modifier_2">Modifier</string>
+    <string name="max_300">Max 300cm</string>
+    <string name="pause">Pause</string>
+    <string name="ecg">ECG</string>
+    <string name="vitesse">Vitesse</string>
+    <string name="total_pas">Total pas</string>
+    <string name="cadance">Cadance</string>
+    <string name="pas_min">pas/min</string>
+    <string name="km_h">km/h</string>
+    <string name="calorie">Calories</string>
+    <string name="cal">cal</string>
+    <string name="finir_activity">Finir l\'activité</string>
+    <string name="etes_vous_sure_de_vouloir">Êtes-vous sûr de vouloir mettre fin à votre activité ? </string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="nombre_de_pas">Nombre de pas</string>
+    <string name="chutes">Chutes</string>
+    <string name="frequence_cardiaque">- Fréquence cardiaque</string>
+    <string name="respirations">- Respiration</string>
+    <string name="tempirateur">- Température</string>
+    <string name="calories">- Calories</string>
+    <string name="chute">- Chutes</string>
+    <string name="text_supprimer_cycle">Êtes-vous sûr de vouloir supprimer ce cycle ?</string>
+    <string name="jour">jour</string>
+    <string name="mois">mois</string>
+    <string name="an">an</string>
+    <string name="semaine">semaine</string>
+    <string name="s_lectionner_le_param_tre">Sélectionner le paramètre</string>
+    <string name="vibreur">Vibreur</string>
+    <string name="notification_application">Notification application</string>
+    <string name="sms" translatable="false">SMS</string>
+    <string name="texte_du_message">Texte du Message</string>
+    <string name="alerte_niveau_2">alerte niveau 2</string>
+    <string name="alerte_niveau_1">alerte niveau 1</string>
+    <string name="alerte_niveau_3">alerte niveau 3</string>
+    <string name="alerte_niveau_4">alerte niveau 4</string>
+    <string name="param_tres_d_alerte">Paramètres D\'alerte</string>
+    <string name="title_notification">RAFIKI</string>
+    <string name="text_notif">ATTENTION! Seuils biométriques critiques.</string>
+    <string name="test_carte_cycle">Votre carte n\'est pas connectée</string>
+    <string name="tempsinst">Temps(s)</string>
+    <string name="nom_med">Nom</string>
+    <string name="d_marrer">Démarrer</string>
+    <string name="Q1">Avez-vous oublié votre mot de passe pour RAFIKI ?</string>
+    <string name="ligne2">Nous sommes là pour vous aider </string>
+    <string name="ligne3">Voici votre mot de passe qui vous permettra de vous connecter à votre compte RAFIKI :  </string>
+    <string name="ligne4">ATTENTION : </string>
+    <string name="ligne5">Si vous n\'avez pas demandé de rappeler votre mot de passe, IGNOREZ et EFFACEZ ce courriel immédiatement ! Continuez uniquement si vous souhaitez que votre mot de passe soit rappelé.</string>
+    <string name="ligne6_merci">Merci !</string>
+    <string name="ligne6">Equipe RAFIKI </string>
+    <string name="ligne7">Ceci est un e-mail généré automatiquement, veuillez ne pas y répondre </string>
+</resources>
